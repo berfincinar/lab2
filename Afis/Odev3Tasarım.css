@@ -1,0 +1,69 @@
+body{
+	background-color: #DCDCDC;
+	padding: 0;
+	margin: 0;
+
+}
+header ul.Bilgi{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	background-color:#A9A9A9;
+	
+}
+header ul.Bilgi li{
+	float: left;
+
+}
+header ul.Bilgi li a{
+	text-decoration: none;
+	color: 	#000000;
+	font-size: 30px;
+	
+	font-family: 'Staatliches', cursive;
+}
+header ul.Bilgi li a.had{
+	color:red;
+	padding:665px;
+	margin: 10px;
+	font-size: 80px;
+
+
+}
+ header ul.Yazi{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	word-spacing: 15px;
+	
+}
+ ul.Yazi li{
+	float: left;
+	padding-left: 190px;
+
+}
+ ul.Yazi li a{
+	text-decoration: none;
+	color: 	#000000;
+	font-size: 30px;
+	padding: 60px;
+	margin: 10px;
+		
+}
+section#firtPic{
+	margin: 0;
+	padding: 0px;
+	background-color:#D3D3D3;
+	border-bottom: 1px solid black;
+	
+}
+section#firtPic div.picture p.TH{
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Orbitron', sans-serif;
+	color: #808080;
+	display: block;
+
+}
