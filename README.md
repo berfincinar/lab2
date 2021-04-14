@@ -1,4 +1,4 @@
-#İnternetTeknolojileriDersiÖdevi
+#lab2İnternetTeknolojileriÖdevi
 
 Web Sitesi İle Css Konularının Anlatımı
 
